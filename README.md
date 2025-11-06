@@ -13,7 +13,7 @@
 
 -----
 
-📈 Esse é meu progresso no momento
+## 📈 Esse é meu progresso no momento
 
 | Curso | Certificado |
 |-------|-------------|
@@ -23,10 +23,12 @@
 
 -----
 
-🔭Tecnologias que me interessam e pretendo trabalhar
+## 🔭Tecnologias que me interessam e pretendo trabalhar
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width:="50px"/>
-
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width:="50px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width:="50px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width:="50px"/>
 -----
 <!--
 **ryukuukira/ryukuukira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
