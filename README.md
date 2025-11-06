@@ -4,11 +4,11 @@
 
 
 
-🙋 Oi, eu sou o Luiz!
+🙋 Oi, eu sou o *Luiz*!
 
-👀 Atualmente trabalho como gerente logístico em tempo integral e procuro mudar de carreira o quanto antes!
+👀 Atualmente trabalho como gerente logístico em tempo integral e procuro **mudar de carreira** o quanto antes!
 
-💻 No momento estou focado em me tornar um programador front end, ainda caminhando a passos lentos, já que  não consigo focar somente nos estudos e preciso trabalhar para manter o bem-estar da minha família.
+💻 No momento estou focado em me tornar um **programador front end**, ainda caminhando a passos lentos, já que  não consigo focar somente nos estudos e preciso trabalhar para manter o bem-estar da minha família.
 
 -----
 ## 📈 Esse é meu progresso no momento
