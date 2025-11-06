@@ -12,24 +12,27 @@
 💻 No momento estou focado em me tornar um programador front end, ainda caminhando a passos lentos, já que  não consigo focar somente nos estudos e preciso trabalhar para manter o bem-estar da minha família.
 
 -----
-
 ## 📈 Esse é meu progresso no momento
 
 | Curso | Certificado |
 |-------|-------------|
 | Lógica de Programação Essencial | [Certificado](https://hermes.dio.me/certificates/YB2PGY34.pdf) |
 | Pensamento Computacional | [Certificado](https://hermes.dio.me/certificates/6DTRQEZX.pdf) |
-| Formação HTML | Em andamento
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="15px"/>Formação HTML  | Em andamento
 
 -----
-
 ## 🔭Tecnologias que me interessam e pretendo trabalhar
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width:="50px"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width:="50px"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width:="50px"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width:="50px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="50px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="50px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angularjs/angularjs-original.svg" width="50px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" width="50px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="50px"/>
+
 -----
+![Ryukuukira GitHub stats](https://github-readme-stats.vercel.app/api?username=ryukuukira&show_icons=true&theme=dark)
+
+
 <!--
 **ryukuukira/ryukuukira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
