@@ -22,11 +22,17 @@
 
 -----
 ## 🔭Tecnologias que me interessam e pretendo trabalhar
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="50px"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="50px"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angularjs/angularjs-original.svg" width="50px"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" width="50px"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="50px"/>
+<p allign="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="50px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="50px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angularjs/angularjs-original.svg" width="50px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" width="50px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="50px"/>
+</p>
 
 -----
-![Ryukuukira GitHub stats](https://github-readme-stats.vercel.app/api?username=ryukuukira&show_icons=true&theme=dark)
+![Luiz Neto GitHub stats](https://github-readme-stats.vercel.app/api?username=ryukuukira&show_icons=true&theme=dark)
+<img loading="lazy" height="180em src=https://github-readme-stats.vercel.app/api/top-langs/?username=ryukuukira&layout=compact&langs_count=7&theme=dark" />
+
 
 
 <!--
