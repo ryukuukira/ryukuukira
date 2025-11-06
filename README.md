@@ -1,8 +1,8 @@
 # Hi there 👋
-<h2 allign="center">Work profile in Progress
+<h2 allign="center">Work profile in Progress</h2>
 
-![imagem](https://i.pinimg.com/originals/fc/91/df/fc91df40e4c8a19777fabb91eecf78da.gif)
-</h2>
+<img src="https://i.pinimg.com/originals/fc/91/df/fc91df40e4c8a19777fabb91eecf78da.gif" allign="center">
+
 
 
 🙋 Oi, eu sou o Luiz!
