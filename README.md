@@ -1,4 +1,8 @@
-## Hi there 👋
+# Hi there 👋
+<center><h2>Work in Progress</h2></center>
+
+![imagem carregando](https://i.pinimg.com/originals/fc/91/df/fc91df40e4c8a19777fabb91eecf78da.gif)
+
 
 <!--
 **ryukuukira/ryukuukira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
