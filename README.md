@@ -1,6 +1,6 @@
 # Work in Progress
 
-![imagem](https://i.pinimg.com/originals/fc/91/df/fc91df40e4c8a19777fabb91eecf78da.gif)
+<p><progress></p>
 
 
 
@@ -15,8 +15,8 @@
 
 | Curso | Certificado |
 |-------|-------------|
-| Lógica de Programação Essencial | [Certificado](https://hermes.dio.me/certificates/YB2PGY34.pdf) |
-| Pensamento Computacional | [Certificado](https://hermes.dio.me/certificates/6DTRQEZX.pdf) |
+| <img src="https://hermes.dio.me/courses/badge/88cb0f8d-dcdb-4c7d-a9c5-c56d021a23b1.png" width="15px"/>Lógica de Programação Essencial | [Certificado](https://hermes.dio.me/certificates/YB2PGY34.pdf) |
+| <img src="https://cdn-icons-png.flaticon.com/512/910/910079.png" width="15px"/>Pensamento Computacional | [Certificado](https://hermes.dio.me/certificates/6DTRQEZX.pdf) |
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="15px"/>Formação HTML  | Em andamento
 
 -----
